@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice Music Player</string>
+    <string name="message">Tap the screen and say something in English.</string>
+</resources>
